@@ -5,9 +5,9 @@
         protected string namn = string.Empty;
         protected int vikt;
         protected int alder;
-        public abstract string Namn { get; set; }
-        public abstract int Vikt { get; set; }
-        public abstract int Alder { get; set; }
+        public string Namn { get; set; }
+        public int Vikt { get; set; }
+        public int Alder { get; set; }
 
         public Animal(string namn, int vikt, int alder)
         {
