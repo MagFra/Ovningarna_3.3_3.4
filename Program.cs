@@ -13,7 +13,7 @@
             // 14.F: Om alla djur behöver det nya attributet, vart skulle man lägga det då?
             // Svar: Animal.
 
-
+            
         }
     }
 }
